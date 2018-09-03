@@ -13,7 +13,7 @@ obs.connect({ address: 'localhost:4444' })
 
 export type StatsEndpointType {
     host: string;
-    port: number;
+    port?: number;
     path: string;
 }
 

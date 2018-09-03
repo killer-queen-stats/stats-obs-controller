@@ -1,7 +1,10 @@
 {
   "dependencies": {
+    "@types/lodash": "^4.14.116",
     "koa": "^2.5.2",
+    "koa-bodyparser": "^4.2.1",
     "koa-router": "^7.4.0",
+    "lodash": "^4.17.10",
     "moment": "^2.22.2",
     "obs-websocket-js": "^1.2.0",
     "request": "^2.88.0",
